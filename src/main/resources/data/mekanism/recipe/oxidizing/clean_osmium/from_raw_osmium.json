@@ -1,0 +1,8 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "mekanism" }
+  ],
+  "type": "mekanism:oxidizing",
+  "input": { "count": 1, "item": "mekanism:raw_osmium" },
+  "output": { "amount": 500, "id": "mekanism:clean_osmium" }
+}
